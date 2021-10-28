@@ -1,5 +1,6 @@
 package com.smart.concurrency.state;
 
-public class State {
-
+public enum State {
+	// left and right chopsticks
+	LEFT, RIGHT;
 }
