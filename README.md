@@ -1,6 +1,6 @@
 A java program illustrating multithreading and concurrency 
 
-Sample console output when ruuning the application:
+Sample console output when running the application:
 
 Philosopher 1 is thinking...
 Philosopher 2 is thinking...
