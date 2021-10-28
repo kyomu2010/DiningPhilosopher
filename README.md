@@ -1,4 +1,4 @@
-## A java program illustrating multithreading and concurrency 
+## A java program demonstrating multithreading and concurrency 
 
 Sample console output when running the application:
 ```
