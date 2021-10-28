@@ -1,7 +1,7 @@
 ## A java program illustrating multithreading and concurrency 
 
 Sample console output when running the application:
-
+```
 Philosopher 1 is thinking...
 Philosopher 2 is thinking...
 Philosopher 4 is thinking...
@@ -156,3 +156,4 @@ Philosopher 1 eats 4
 Philosopher 2 eats 2
 Philosopher 3 eats 3
 Philosopher 4 eats 4
+```
